@@ -10,11 +10,7 @@
 
 ## Created by: Cc3 / Sah
 
-
-
-## Sa mga cheater dati Scroll daw nandun yung guide pano iupdate layeredge niyo!        
-
-
+     
 
 
 ## ##### MGA DATING CHEATER SA LAYEREDGE #####
