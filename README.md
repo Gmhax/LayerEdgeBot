@@ -1,5 +1,5 @@
 # Layer Edge Auto Ping Node
-##CC3
+## CC3
 
 
 
