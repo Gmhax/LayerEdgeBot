@@ -11,66 +11,8 @@
 ## Created by: Cc3 / Sah
 
 
-- website : https://dashboard.layeredge.io/
 
-## Features
-
-- **Auto Run Node**
-- **Auto Create Accounts**
-- **Auto Referrall**
-- **Support Proxy usage**
-- **Auto Claim Points every hour**
-
-## Prerequisites
-
-- Node.js installed on your machine
-
-## For New user na gusto mag-cheater sa layeredge FOLLOW THIS Installation GUIDE!    /   ## Sa mga cheater dati Scroll daw nandun yung guide pano iupdate layeredge niyo!        
-
-
-
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Gmhax/LayerEdgeBot.git
-    cd LayerEdgeBot
-    ```
-
-2. Install the required dependencies:
-    ```
-    npm install
-    ```
-    ```
-    git pull
-    ```
-
-3. Paste proxy in proxy.txt:
-
-    ```
-    nano proxy.txt
-    ```
-Paste this proxy:
-    ```
-    https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
-    ```
-
-4. Create Session:
-    ```sh
-    screen -S layeredge
-    ```
-
-
-5. Run the script:
-    ```sh
-    npm run start
-    ```
-
-## Detact session:
-## Press:Ctrl A + D
-
-
-##  #######END#######
+## Sa mga cheater dati Scroll daw nandun yung guide pano iupdate layeredge niyo!        
 
 
 
