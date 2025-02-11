@@ -62,6 +62,7 @@
     npm run autoref
     ```
   Ps: kung bagong gawa yung account mo need muna ng 50hrs naka run yung layeredge ( skip mo nalang to kung bagung gawa)
+  
 -input referral Minimum: 50
 -Input mo yung referral dummy account mo sa LayerEdge Ex:kaIyq8YH
 
