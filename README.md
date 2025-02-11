@@ -57,10 +57,7 @@ Paste this proxy:
    
     
 
-4. Auto Referral / create new wallets
-    ```sh
-    npm run autoref
-    ```
+
   Ps: kung bagong gawa yung account mo need muna ng 50hrs naka run yung layeredge ( skip mo nalang to kung bagung gawa)
   
 -input referral Minimum: 50
@@ -114,6 +111,24 @@ Press: ctrl + c
     ```
     npm run start
     ```
+## Detact session:
+Press:Ctrl A+D
+
+## To run your previously created auto ref
+
+1. create session
+     ```
+    screen -S layeredgeref
+    ```
+
+2. Execute:
+   
+    ```sh
+    npm run autoref
+    ```
+
+## Detact session:
+Press:Ctrl A+D
 
 
 ## Detact session:
