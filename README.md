@@ -50,9 +50,9 @@
     ```
     nano proxy.txt
     ```
-##Paste this proxy:
+## Paste this proxy:
     ```
-   https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
+    https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
     ```
    
     
