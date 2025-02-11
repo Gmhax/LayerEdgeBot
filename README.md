@@ -1,6 +1,7 @@
 # Layer Edge Auto Ping Node
 
-![banner](!https://github.com/user-attachments/assets/813d7b83-21ce-4e15-8182-6a0751ca0fd4)
+![banner]![image](https://github.com/user-attachments/assets/f5e76b6b-6396-4598-889b-e87bc1ad1eb6)
+
 )
 - website : https://dashboard.layeredge.io/
 
