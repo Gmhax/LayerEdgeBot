@@ -54,23 +54,14 @@ Paste this proxy:
     ```
     https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
     ```
-   
-    
 
-
-  Ps: kung bagong gawa yung account mo need muna ng 50hrs naka run yung layeredge ( skip mo nalang to kung bagung gawa)
-  
--input referral Minimum: 50
-
--Input mo yung referral dummy account mo sa LayerEdge Ex:kaIyq8YH
-
-5. Create Session:
+4. Create Session:
     ```sh
     screen -S layeredge
     ```
 
 
-6. Run the script:
+5. Run the script:
     ```sh
     npm run start
     ```
