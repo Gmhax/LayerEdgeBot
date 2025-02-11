@@ -25,7 +25,7 @@
 
 - Node.js installed on your machine
 
-## For New user na gusto mag-cheater sa layeredge FOLLOW THIS Installation GUIDE!    ////    Sa mga cheater dati Scroll daw nandun yung guide pano iupdate layeredge niyo!        
+## For New user na gusto mag-cheater sa layeredge FOLLOW THIS Installation GUIDE!    /   ## Sa mga cheater dati Scroll daw nandun yung guide pano iupdate layeredge niyo!        
 
 
 
