@@ -1,4 +1,5 @@
 # Layer Edge Auto Ping Node
+##CC3
 
 ![banner](https://github.com/user-attachments/assets/f5e76b6b-6396-4598-889b-e87bc1ad1eb6)
 
