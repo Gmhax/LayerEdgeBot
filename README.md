@@ -92,7 +92,8 @@ Paste this proxy
     ```
     https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
     ```
-3.rettach session
+    
+3. rettach session
     ```
     screen -r layeredge
     ```
@@ -102,6 +103,8 @@ Press: ctrl + c
     ```
     npm run start
     ```
+
+    
 ## Detact session:
 Press:Ctrl A+D
 
