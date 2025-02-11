@@ -89,7 +89,7 @@
 
 ## ##### MGA DATING CHEATER SA LAYEREDGE #####
 
-## kung nagawa muna dati yung cheat ni layerEdge tas error kasi dika mahal ng taong mahal mo gawin mo ito:
+## kung nagawa muna dati yung cheat ni layerEdge tas error kasi dika mahal ng taong mahal mo gawin muto:
 
 1. clone directory / update
     ```sh
