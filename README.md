@@ -78,7 +78,7 @@
     npm run start
     ```
 
-#Detact session:
+## Detact session:
 Press:Ctrl A+D
 
 
