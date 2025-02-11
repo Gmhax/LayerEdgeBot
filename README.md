@@ -79,7 +79,7 @@
     ```
 
 ## Detact session:
-Press:Ctrl A+D
+## Press:Ctrl A + D
 
 
 ##### END #######
