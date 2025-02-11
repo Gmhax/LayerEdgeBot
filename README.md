@@ -34,7 +34,7 @@
 1. Clone the repository:
     ```sh
     git clone https://github.com/Gmhax/LayerEdgeBot.git
-    cd LedgeBot
+    cd LayerEdgeBot
     ```
 
 2. Install the required dependencies:
