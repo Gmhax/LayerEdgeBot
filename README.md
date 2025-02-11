@@ -8,7 +8,7 @@
 
 ## NOTE: WAG NIYO iLABAS ITUNG TUTS PARA WALANG INGITIRA AT INGITIRO KASI PAG ALAM NILA NAG CHEAT TAYU PURO PUTAK YAN SA DC!! LAM NIYO NAYAN! 
 
-##-Cc3 / Sah
+## -Cc3 / Sah
 
 
 - website : https://dashboard.layeredge.io/
