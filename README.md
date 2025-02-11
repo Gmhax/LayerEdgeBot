@@ -45,7 +45,7 @@
     git pull
     ```
 
-#Paste proxy in proxy.txt:
+3. Paste proxy in proxy.txt:
 
     ```
     nano proxy.txt
@@ -55,7 +55,7 @@
     https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
     ```
 
-3. Auto Referral / create new wallets
+4. Auto Referral / create new wallets
     ```sh
     npm run autoref
     ```
@@ -69,7 +69,7 @@
     ```
 
 
-4. Run the script:
+6. Run the script:
     ```sh
     npm run start
     ```
