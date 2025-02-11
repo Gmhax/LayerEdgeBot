@@ -116,13 +116,16 @@ Press: ctrl + c
     ```
 
 
-#Detact session:
+## Detact session:
 Press:Ctrl A+D
 
 
 
 
 ## All wallets information saved at `wallets.json`
+ ```
+ nano wallets.json
+ ```
 
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
