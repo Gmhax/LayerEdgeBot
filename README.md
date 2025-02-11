@@ -50,10 +50,13 @@
     ```
     nano proxy.txt
     ```
-##Paste this proxy
-    ```
+## Paste this proxy:
+   
+    ```sh
     https://raw.githubusercontent.com/Gmhax/proxyEds/refs/heads/main/Hax
     ```
+   
+    
 
 4. Auto Referral / create new wallets
     ```sh
